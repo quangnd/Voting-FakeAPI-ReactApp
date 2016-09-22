@@ -42,3 +42,5 @@ Frontend
     + Need `<Route path='/details' component={PollViewPage}/>`
 + If id is int type, need parseInt after get from query string.
 + To change Component state on the same page, need look into componentWillReceiveProps() life cycle.
++ Deployment to Heroku: https://github.com/mars/create-react-app-buildpack
+
