@@ -3,6 +3,10 @@ A fullstack React web app with NodeJS and its ecosystem. In this project, I don'
 
 Please visit [Link] to see Fullstack app.
 
+Visit /src/api/userData.js to get login information.
+
+*(I don't validate data enough for this project, and also don't Unit Test to keep it simple. So don't blame me ^^)*
+
 ##Tech stacks
 Frontend
     + ReactJS
@@ -28,7 +32,7 @@ Frontend
 
 8. As an authenticated user, if I don't like the options on a poll, I can create a new option.
 
-A simple UseCase diagram
+**A simple UseCase diagram**
 
 ![UseCase](Documents/Simple_UseCase.jpg?raw=true "Title")
 
